@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    color: rgb(76, 76, 145);
+    background-color: blanchedalmond;
+    }
+
+div{
+    
+    color:rgb(78, 78, 76);
+    text-align: start;
+    background-color: rgb(161, 154, 55);
+    border-radius: 20px;
+    
+    
+    }
+.lista{
+        text-align: center;
+        font-size: 25px;
+        list-style: none;
+        font-size: 30px;
+        text-decoration:underline;
+        
+    }
+.footer{
+    background-color: rgb(167, 160, 160);
+    text-align: end;
+    color: black;
+    border-radius: 0px;
+
+}
